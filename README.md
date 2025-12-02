@@ -1,6 +1,7 @@
 # Handwritten Digit Classifier
 
 A Streamlit web application that classifies handwritten digits using a neural network trained on the MNIST dataset.
+Deployed link: https://hand-written-digits-classifier-ddycucz5jn36wwdxrr5q2o.streamlit.app/
 
 ## Features
 
